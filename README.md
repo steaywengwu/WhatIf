@@ -19,6 +19,13 @@
 </p>
 
 ## Download
+类似kotlin顶层函数，语法糖：大多数判空处理,运用场景扩展的不错。
+会心一笑，^_^
+
+let,run,with,apply,also,takeif,takeUnless,repeat.
+
+
+
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/whatif.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.skydoves%22%20AND%20a:%22whatif%22)
 [![Jitpack](https://jitpack.io/v/skydoves/whatif.svg)](https://jitpack.io/#skydoves/whatif)
 

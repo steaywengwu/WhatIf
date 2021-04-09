@@ -1,7 +1,8 @@
 <h1 align="center">WhatIf</h1></br>
 
 <p align="center">
-☔ Fluent expressions of Kotlin for handling single if-else statements, nullable, collections, and boolean.
+☔ Kotlin的流畅表达式，用于处理单个if-else语句、nullable、collections和boolean。
+  用多了，容易中毒，^_^。。
 </p>
 <br>
 
